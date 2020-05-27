@@ -6,5 +6,4 @@
 
 1. 我们添加 [拆分客户名字的功能](SplittingNames.md "c:run")，以便于查找和排序。
 
-
-
+1. 我们玩了 [FizzBuzz的游戏](FizzbuzzGames.md "c:run"),练习从TDD到BDD。
