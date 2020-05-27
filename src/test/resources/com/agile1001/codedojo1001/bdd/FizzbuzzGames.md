@@ -13,6 +13,8 @@
 | ---------------                     | -------------       | ---------------   | 
 | 普通数字，直接报数字                   | 1                   | 1                  | 
 | 3的倍数,报Fizz                       | 3                   | Fizz              | 
+| 5的倍数,报Buzz                       | 5                   | Buzz              | 
+| 3和5的倍数,报FizzBuzz                       | 15                   | FizzBuzz              | 
 
 [fizzBuzz]: - "#fizzBuzzNumber = given(#number)"
 [number]: - "#number"
