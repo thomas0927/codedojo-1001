@@ -11,9 +11,9 @@
 ### [FizzBuzz游戏](- "fizzBuzz-game")
 | [fizzBuzz][]	[说明](- "c:example")		  | [数字][number]  		| [回答][answer] 		| 
 | ---------------                     | -------------       | ---------------   | 
-| 普通数字                             | 1                   | 1                  | 
-| 可以被3整除                           | 3                   | Fizz              | 
+| 普通数字，直接报数字                   | 1                   | 1                  | 
+| 3的倍数,报Fizz                       | 3                   | Fizz              | 
 
-[fizzBuzz]: - "#fizzBuzzResult = given(#number)"
+[fizzBuzz]: - "#fizzBuzzNumber = given(#number)"
 [number]: - "#number"
-[answer]: - "?=#fizzBuzzResult.say()"
+[answer]: - "?=#fizzBuzzNumber.answer()"
